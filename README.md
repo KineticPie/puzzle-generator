@@ -94,3 +94,5 @@ Kurzfassung:
 MIT — mach damit was du willst. Ein ⭐ freut uns! 😄
 
 **Made with ❤️ by KINETIC-IT**
+
+🤖 Dieses Projekt wurde mit Unterstützung von KI (Claude von Anthropic) entwickelt.
