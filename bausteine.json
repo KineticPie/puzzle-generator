@@ -1,0 +1,121 @@
+{
+  "_info": "Dynamische Texte — zufällig generiert. Statische Texte (Tierhaushalt, Rechtsparagraph) sind in statisch.json.",
+  "intro": [
+    "Wir bieten ein {hersteller} Puzzle mit {teile} Teilen, Motiv \"{motiv}\".",
+    "Zum Verkauf steht ein {hersteller} Puzzle – {teile} Teile, Motiv \"{motiv}\".",
+    "Hier bieten wir ein tolles {hersteller} Puzzle an: {teile} Teile, Motiv \"{motiv}\".",
+    "Zu verkaufen: {hersteller} Puzzle, {teile} Teile – Motiv \"{motiv}\".",
+    "Wir verkaufen ein {hersteller} Puzzle ({teile} Teile) mit dem Motiv \"{motiv}\".",
+    "Angeboten wird ein {hersteller} Puzzle mit {teile} Teilen – Motiv: \"{motiv}\".",
+    "Ein wunderschönes {hersteller} Puzzle mit {teile} Teilen, Motiv \"{motiv}\", sucht ein neues Zuhause.",
+    "Dieses {hersteller} Puzzle mit {teile} Teilen zeigt das Motiv \"{motiv}\" – perfekt für den nächsten Puzzle-Abend."
+  ],
+  "motiv_beschreibung": [
+    "{beschreibung}",
+    "{beschreibung} Ein echter Hingucker!",
+    "{beschreibung} Perfekt für Puzzle-Fans.",
+    "{beschreibung} Eine schöne Herausforderung für zu Hause.",
+    "{beschreibung} Macht optisch richtig was her.",
+    "{beschreibung} Ideal für einen entspannten Puzzle-Abend."
+  ],
+  "schwierigkeit": {
+    "niedrig": [
+      "Ideal für Einsteiger und gemütliche Stunden.",
+      "Ein schönes Puzzle für die ganze Familie.",
+      "Auch für jüngere Puzzler gut geeignet.",
+      "Entspannte Schwierigkeit – macht einfach Spaß."
+    ],
+    "mittel": [
+      "Eine angenehme Herausforderung für Gelegenheits-Puzzler.",
+      "Gut für zwischendurch – nicht zu leicht, nicht zu schwer.",
+      "Für alle, die etwas Anspruch schätzen.",
+      "Macht richtig Spaß und hält einen eine Weile beschäftigt."
+    ],
+    "hoch": [
+      "Eine echte Herausforderung für erfahrene Puzzler.",
+      "Nichts für schwache Nerven – aber das Ergebnis lohnt sich.",
+      "Für Puzzle-Profis, die es gerne knifflig mögen.",
+      "Anspruchsvoll und befriedigend – wenn es fertig ist."
+    ]
+  },
+  "zustand": {
+    "neu": [
+      "Noch originalverpackt, nie geöffnet.",
+      "Neu und ungeöffnet.",
+      "Originalverpackt – nie gespielt."
+    ],
+    "wie neu": [
+      "Wurde einmal gelegt und befindet sich in einwandfreiem Zustand.",
+      "Wie neu – kaum benutzt.",
+      "Einmal gelegt, top Zustand."
+    ],
+    "gut": [
+      "In gutem Zustand.",
+      "Gut erhalten, leichte Gebrauchsspuren möglich.",
+      "Guter Zustand, vollständig."
+    ],
+    "gebraucht": [
+      "In gebrauchtem Zustand, aber vollständig.",
+      "Sichtbar benutzt, aber alles dabei.",
+      "Gebraucht, kein Sammlerstück."
+    ]
+  },
+  "vollstaendigkeit": [
+    "Wir achten sorgfältig darauf, dass alle Teile vorhanden sind – eine Garantie können wir jedoch nicht geben.",
+    "Die Vollständigkeit wurde nach bestem Gewissen geprüft – eine 100%ige Garantie ist aber nicht möglich.",
+    "Alle Teile wurden so gut wie möglich kontrolliert, ohne Garantie auf Vollständigkeit.",
+    "Wir bemühen uns, alle Teile zu prüfen – als Privatverkäufer können wir keine Garantie übernehmen.",
+    "Teilekontrolle erfolgt gewissenhaft, aber ohne Gewähr."
+  ],
+  "verbundene_teile": [
+    "Beim Legen versuchen wir zusammengeklebte Teile zu trennen – einzelne Ausnahmen lassen sich nicht immer verhindern.",
+    "Es kann vorkommen, dass ein oder zwei Teile miteinander verbunden sind.",
+    "Wir achten darauf, dass keine Teile zusammenkleben – in seltenen Fällen lässt sich das aber nicht ganz ausschließen.",
+    "Zusammengelegte Teile werden nach Möglichkeit getrennt."
+  ],
+  "sorgfalt": [
+    "Wir gehen generell sehr sorgsam mit unseren Puzzles um.",
+    "Alle unsere Puzzles werden mit Sorgfalt behandelt und aufbewahrt.",
+    "Bei uns werden Puzzles respektiert – bewusster Umgang, ordentliche Lagerung.",
+    "Wir sind ordentliche Puzzler – alles wird sauber gelagert und gepflegt."
+  ],
+  "herkunft": [
+    "Meistens wurde das Puzzle von uns selbst nur einmal gelegt. Einzelne Puzzles kamen aber auch secondhand zu uns.",
+    "In der Regel einmal selbst gelegt – einzelne Puzzles können auch gebraucht erworben worden sein.",
+    "Meist einmal gelegt – teilweise auch als gebrauchtes Puzzle zu uns gekommen.",
+    "Vorwiegend eigengenutzt. Manche Puzzles haben aber auch schon eine Vorgeschichte."
+  ],
+  "verpackung": [
+    "Wird sicher und sorgfältig verpackt versendet.",
+    "Versand erfolgt gut geschützt – Originalkarton wird mitgegeben.",
+    "Sicherer Versand selbstverständlich, Originalverpackung wird beigelegt.",
+    "Wird liebevoll eingepackt damit es sicher ankommt.",
+    "Verpackung erfolgt gewissenhaft, Originalkarton wird mitgeliefert."
+  ],
+  "abschluss": [
+    "Bei Fragen einfach melden – wir antworten schnell!",
+    "Schaut auch unsere anderen Anzeigen an – es gibt noch mehr zu entdecken!",
+    "Abholung bevorzugt, Versand aber selbstverständlich möglich.",
+    "Versand möglich – oder gerne auch persönliche Übergabe.",
+    "Wir verkaufen regelmäßig weitere Puzzles – einfach die anderen Anzeigen anschauen!",
+    "Fragen? Kein Problem – einfach schreiben!"
+  ],
+  "teile_kommentar": {
+    "klein": [
+      "In kurzer Zeit gelegt – ideal für einen entspannten Abend.",
+      "Überschaubar und entspannend – perfekt für Zwischendurch."
+    ],
+    "mittel": [
+      "Ein schönes Projekt für ein Wochenende.",
+      "Beschäftigt angenehm über mehrere Abende."
+    ],
+    "gross": [
+      "Ein echtes Projekt – aber das Ergebnis ist beeindruckend.",
+      "Für alle die es gerne groß mögen – mehrere Abende Beschäftigung garantiert."
+    ],
+    "riesig": [
+      "Ein Mammutprojekt für absolute Puzzle-Enthusiasten.",
+      "Nichts für ungeduldige – der Wow-Effekt am Ende ist aber unbezahlbar."
+    ]
+  }
+}
